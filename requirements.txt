@@ -1,0 +1,6 @@
+streamlit>=1.40
+opencv-python>=4.10
+mediapipe>=0.10.21,<1.0
+onnxruntime>=1.18
+numpy<2
+pyttsx3>=2.90
